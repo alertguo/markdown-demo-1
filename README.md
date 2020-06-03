@@ -14,7 +14,7 @@
 4. 篮球
 
 
-* 下面这是代码
+下面这是代码
 
     ver a = 1
     console.log(a)
@@ -25,3 +25,5 @@
 ver b = 2
 console.log(b)
 ```
+
+* 谢谢观看
